@@ -1,14 +1,4 @@
-Perfect, Maaz. 🚀 Let's build the README now.
 
-## Step 16 — Replace the default `README.md`
-
-Open your GitHub repository:
-
-[ecommerce-excel-data-analysis](https://github.com/maaz-alam04/ecommerce-excel-data-analysis?utm_source=chatgpt.com)
-
-Open **`README.md`** → click the **pencil/Edit** icon.
-
-Delete the existing content and paste this:
 
 ```markdown
 # E-Commerce Data Analysis & Interactive Excel Dashboard
