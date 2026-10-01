@@ -356,17 +356,10 @@ The final dashboard provides a consolidated view of e-commerce performance and c
 
 ## 👤 Author
 
-**Maaz Alam**
+**Mohammed Maaz Alam**
 
 B.Tech — Computer Science & Engineering
 
 GitHub: [@maaz-alam04](https://github.com/maaz-alam04)
 ```
 
-### One important thing
-
-The README contains **relative image paths**, such as:
-
-```markdown
-![E-Commerce Analytics Dashboard](Dashboard/dashboard_overview.png)
-```
